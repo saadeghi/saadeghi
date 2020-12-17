@@ -1,6 +1,6 @@
 <div align="center">
 
-[![][logo-url]](#)  
+[![][logo-url]][repo-url]  
 
 CSS components for Tailwind CSS  
 [ [See repo ↗︎][repo-url] ]
