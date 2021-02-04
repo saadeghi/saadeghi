@@ -2,7 +2,7 @@
 
 [![][logo-url]][repo-url]  
 
-UI components for Tailwind CSS  
+**Tailwind CSS Components**  
 [ [See repo ↗︎][repo-url] ]
   
 
