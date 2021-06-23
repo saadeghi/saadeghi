@@ -11,6 +11,6 @@
 [![][banner-url]][repo-url]  
 
 
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-3.svg
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
 [repo-url]: https://github.com/saadeghi/daisyui
 [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
