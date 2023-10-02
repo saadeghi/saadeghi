@@ -2,8 +2,8 @@
 
 [![][logo-url]][repo-url]  
 
-**Tailwind CSS Components**  
-[ [See repo ↗︎][repo-url] ]
+**Free Tailwind CSS Components**  
+[ [See all components ↗︎][repo-url] ]
   
 
 </div>
