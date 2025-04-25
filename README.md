@@ -1,16 +1,9 @@
 <div align="center">
 
-[![][logo-url]][repo-url]  
-
-**Free Tailwind CSS Components**  
-[ [See all components ↗︎][repo-url] ]
-  
+[![Tailwind Components][logo-url]][site-url]  
 
 </div>
 
-[![][banner-url]][repo-url]  
 
-
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
-[repo-url]: https://daisyui.com/
-[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
+[logo-url]: https://github.com/user-attachments/assets/3e5bde5f-7cad-4a36-a5d8-cc40e9d67e5e
+[site-url]: https://daisyui.com/
